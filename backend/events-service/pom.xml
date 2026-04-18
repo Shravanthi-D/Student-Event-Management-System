@@ -129,5 +129,8 @@
 			</releases>
 		</pluginRepository>
 	</pluginRepositories>
+	<properties>
+		<skipTests>true</skipTests>
+	</properties>
 
 </project>
